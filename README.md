@@ -1,6 +1,6 @@
 # SimpleGroupChat
 
-Description: 
+Description: <br>
 o	Platform : Windows<br>
 o	Language : Java<br>
 o	Core Features : Group chat application based on TCP connection<br>
